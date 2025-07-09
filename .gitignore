@@ -1,0 +1,21 @@
+# Session data
+ide/
+projects/
+statsig/
+todos/
+
+# Local config overrides
+settings.local.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Backup files
+*.bak
+*~

@@ -1,0 +1,14 @@
+{
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": "mcp\\.json$",
+        "cmd": "cd ${workspaceFolder} && ./merge-mcp.sh"
+      },
+      {
+        "match": "settings\\.json$",
+        "cmd": "cd ${workspaceFolder} && ./scripts/sort-settings-permissions.sh"
+      }
+    ]
+  }
+}
