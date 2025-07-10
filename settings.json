@@ -36,6 +36,7 @@
       "Bash(go run:*)",
       "Bash(go test:*)",
       "Bash(go vet:*)",
+      "Bash(gofmt:*)",
       "Bash(golangci-lint run:*)",
       "Bash(grep:*)",
       "Bash(gtimeout:*)",
