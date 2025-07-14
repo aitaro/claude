@@ -20,6 +20,7 @@
       "Bash(flutter pub run build_runner build:*)",
       "Bash(gh pr checkout:*)",
       "Bash(gh pr checks:*)",
+      "Bash(gh pr comment:*)",
       "Bash(gh pr create:*)",
       "Bash(gh pr list:*)",
       "Bash(gh pr merge:*)",
