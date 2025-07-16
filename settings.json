@@ -33,6 +33,7 @@
       "Bash(git push:*)",
       "Bash(git stash:*)",
       "Bash(go build:*)",
+      "Bash(go list:*)",
       "Bash(go mod:*)",
       "Bash(go run:*)",
       "Bash(go test:*)",
@@ -73,9 +74,14 @@
       "mcp__linear__update_issue",
       "mcp__playwright__browser_click",
       "mcp__playwright__browser_close",
+      "mcp__playwright__browser_handle_dialog",
       "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_navigate_back",
+      "mcp__playwright__browser_press_key",
       "mcp__playwright__browser_resize",
-      "mcp__playwright__browser_take_screenshot"
+      "mcp__playwright__browser_snapshot",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__playwright__browser_wait_for"
     ],
     "deny": [],
     "defaultMode": "acceptEdits"
