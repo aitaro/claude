@@ -3,6 +3,7 @@ ide/
 projects/
 statsig/
 todos/
+shell-snapshots/
 
 # Local config overrides
 settings.local.json
