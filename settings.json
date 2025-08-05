@@ -102,5 +102,9 @@
     ],
     "deny": [],
     "defaultMode": "acceptEdits"
-  }
+  },
+  "feedbackSurveyState": {
+    "lastShownTime": 1764101988855
+  },
+  "$schema": "https://json.schemastore.org/claude-code-settings.json"
 }
